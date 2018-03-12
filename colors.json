@@ -1,0 +1,12 @@
+{
+  "Nilfgaard" : "white",
+  "Scoia'tael" : "green",
+  "Monster" : "red",
+  "Neutral" : "light_white",
+  "Skellige" : "light_magenta",
+  "Northern Realms" : "light_blue",
+  "Gold" : "light_yellow" ,
+  "Silver" : "light_black",
+  "Bronze" : "yellow",
+  "Default" : "light_white"
+}
