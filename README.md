@@ -9,7 +9,7 @@ Elixir >= 1.6.1
 ### Usage
 `$ gwent --card NAME`
 
-## Build
+### Build
 
 Run the following commands:
 `mix deps.get`
@@ -23,7 +23,7 @@ Run the following commands:
 
 `$ gwent --card "Geralt: Igni"`
 
-## Extra
+### Extra
 To disable colored output remove `config :elixir, ansi_enabled: true` from config.exs.
 
 ### Thanks
